@@ -1,2 +1,2 @@
-# IndoorHospitalNav
-A Simple Indoor Navigation System
+# IndoorNav
+A Simple Indoor Navigation System,
