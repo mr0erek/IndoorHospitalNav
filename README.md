@@ -4,7 +4,7 @@ A Simple Indoor Navigation System,
 # Installation
 
 ```bash 
-git clone --depth=1 https://github.com/mr0erek/IndoorHospitalNav.git; python -m venv "venv"
+git clone --depth=1 https://github.com/mr0erek/IndoorHospitalNav.git; cd IndoorHospitalNav;python -m venv "venv"
 ```
 - **[Enabling Virtual Environment]**
 - For Linux : `source venv/Scripts/activate` 
