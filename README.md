@@ -12,6 +12,8 @@ git clone --depth=1 https://github.com/mr0erek/IndoorHospitalNav.git; cd IndoorH
 
 ### **Commands For Frontend**
 - `cd IndoorHospitalNav/hospital-nav-frontend; npm install`
+>[!NOTE]
+>**Some of the Dependencies/Packages are vulnerable, Kindly Avoid for now.**
 
 ### **Commands For Backend (Django)**
 - Change Directory to `hospitalnav`
